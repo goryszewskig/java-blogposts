@@ -77,6 +77,7 @@ public class App {
 
 			} catch (SQLException sqle) {
 				System.out.println("SQLException while trying to get the session information: " + sqle);
+				break;
 			}
 
 			// give me some time to do some damage

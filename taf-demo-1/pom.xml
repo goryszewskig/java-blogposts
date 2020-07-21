@@ -8,7 +8,7 @@
   <artifactId>taf-example-1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>tafDemo</name>
+  <name>taf-example-1</name>
   <url>https://github.com/martincarstenbach/java-blogposts</url>
 
   <properties>
