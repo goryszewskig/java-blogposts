@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>de.martin</groupId>
-  <artifactId>tafDemo</artifactId>
+  <artifactId>taf-example-1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>tafDemo</name>
